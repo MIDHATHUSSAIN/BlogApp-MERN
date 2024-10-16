@@ -1,0 +1,93 @@
+[{
+    "id": 1,
+    "name" : "physics",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": "https://img.freepik.com/free-photo/view-some-open-books_23-2147615118.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 2,
+    "name" : "abc",
+    "price": 100,
+    "category": "story",
+     "title": "bshsh",
+     "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 3,
+    "name" : "bio",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": "https://img.freepik.com/free-photo/opened-book-green-grass_23-2148199856.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 4,
+    "name" : "abc",
+    "price": 5000,
+    "category": "music",
+     "title": "bshsh",
+     "image": "https://images.pexels.com/photos/769969/pexels-photo-769969.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+    "id": 5,
+    "name" : "abc",
+    "price": 200,
+    "category": "story",
+     "title": "bshsh",
+     "image":"https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+    "id": 6,
+    "name" : "maths",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5916.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 7,
+    "name" : "abc",
+    "price": 800,
+    "category": "art",
+     "title": "bshsh",
+     "image":" https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+    "id": 8,
+    "name" : "abc",
+    "price": 9000,
+    "category": "art",
+    "title": "bshsh",
+    "image":"https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+    "id": 10,
+    "name" : "abc",
+    "price": 500,
+    "category": "art",
+     "title": "bshsh",
+     "image":"https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158585.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 11,
+    "name" : "chemistry",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": " https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 12,
+    "name" : "physics",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": "https://img.freepik.com/free-photo/book-library-with-old-open-textbook-stack-piles-literature-text-archive-reading-desk_1150-9086.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 13,
+    "name" : "computer",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": "https://img.freepik.com/free-photo/creative-arrangement-with-different-books_23-2148851038.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+},{
+    "id": 14,
+    "name" : "maths",
+    "price": 0,
+    "category": "free",
+     "title": "Science",
+     "image": "https://img.freepik.com/free-photo/front-view-stacked-open-books_23-2148255884.jpg?ga=GA1.1.1920841356.1725640378&semt=ais_hybrid"
+}
+]

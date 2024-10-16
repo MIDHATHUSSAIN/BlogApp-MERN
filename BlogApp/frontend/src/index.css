@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.abc{
+
+  background-color: rgb(100 0 99);
+}
+.btn {
+  background-color: rgb(100 0 99);
+  border: none;
+}
+.ii{
+  border: 3px solid rgb(142, 2, 139);
+}
+.grow{
+   color: rgb(100 0 99) !important;
+}
+.btn:hover{
+  background-color: rgb(142, 2, 139) !important;
+}
+.btnn{
+  background-color: rgb(142, 2, 139) !important
+}
+.iam{
+
+  box-shadow: 0 0 36px 4px rgb(204, 183, 204);
+}
